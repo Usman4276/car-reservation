@@ -1,0 +1,11 @@
+.override1 p{
+    margin-left: 15px;
+}
+
+.override2 div div{
+    margin-left: 1rem;
+}
+
+.override3 input{
+    padding: 10.5px 14px !important;
+}

@@ -1,0 +1,10 @@
+.accordion__button{
+    background-color: white;
+    color: rgb(197, 39, 39);
+   font-size: 13px;
+   font-weight: 500;
+}
+
+.accordion{
+    border: none;
+}

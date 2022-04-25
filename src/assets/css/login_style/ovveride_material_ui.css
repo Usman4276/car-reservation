@@ -1,0 +1,12 @@
+.MuiFormHelperText-root{
+
+    width: 25vw;
+}
+
+.field_override input{
+    padding: 10.5px 14px !important;
+}
+
+.reg_btn button{
+    padding: 17px 16px !important
+}
