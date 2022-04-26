@@ -9,10 +9,10 @@
 
 ## 🚀 To Run This Project
 
-1. First install gatsby using this command **npm install -g gatsby-cli**
+1. First install all dependencies using  **npm i**
 
 
-2. Install all dependencies using  **npm i**
+2. Install gatsby using this command **npm install -g gatsby-cli**
 
 ## 🚀 Quick start (Gatsby Cloud)
 
