@@ -14,6 +14,8 @@
 
 2. Install gatsby using this command **npm install -g gatsby-cli**
 
+3. Run project using **gatsby develop**
+
 ## 🚀 Quick start (Gatsby Cloud)
 
 Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
