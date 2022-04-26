@@ -7,7 +7,7 @@
   Gatsby minimal starter
 </h1>
 
-## 🚀 Quick start
+## 🚀 To Run This Project
 
 1. First install gatsby using this command **npm install -g gatsby-cli**
 
